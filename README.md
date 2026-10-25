@@ -1,1 +1,3 @@
-# Movie booking
+# Movie Booking
+
+Booking details
